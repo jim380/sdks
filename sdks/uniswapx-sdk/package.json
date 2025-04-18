@@ -1,6 +1,6 @@
 {
   "name": "@jim380/uniswapx-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "UniswapX SDK with HyperEVM support, forked from @uniswap/uniswapx-sdk",
   "author": "jim380",
   "repository": {
