@@ -216,7 +216,7 @@ export class UnsignedV2DutchOrder implements OffChainOrder {
           output.recipient,
         ]),
         // use empty default for cosignerData and cosignature
-        [0, 0, ethers.constants.AddressZero, 0, 0, []],
+        [0, 0, ethers.constants.AddressZero, 0, 0, [0]],
         "0x",
       ],
     ]);
